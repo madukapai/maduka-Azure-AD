@@ -32,7 +32,7 @@ namespace maduka_Azure_AD
         private void btnGetManager_Click(object sender, EventArgs e)
         {
             // 取出該帳號的ObjectId, 並透過GraphAPI取得主管的資訊
-            for (int i=0; i<objResult.value.Length; i++)
+            for (int i = 0; i < objResult.value.Length; i++)
             {
                 string strObjectId = objResult.value[i].objectId.ToString();
 

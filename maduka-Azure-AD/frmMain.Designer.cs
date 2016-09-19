@@ -75,7 +75,6 @@
             this.txtTenant.Name = "txtTenant";
             this.txtTenant.Size = new System.Drawing.Size(811, 36);
             this.txtTenant.TabIndex = 3;
-            this.txtTenant.Text = "maduka.idv.tw";
             // 
             // txtClientId
             // 
@@ -85,7 +84,6 @@
             this.txtClientId.Name = "txtClientId";
             this.txtClientId.Size = new System.Drawing.Size(811, 36);
             this.txtClientId.TabIndex = 3;
-            this.txtClientId.Text = "ef839b44-be56-4979-93c9-935a00efae76";
             // 
             // txtSecret
             // 
@@ -95,7 +93,6 @@
             this.txtSecret.Name = "txtSecret";
             this.txtSecret.Size = new System.Drawing.Size(811, 36);
             this.txtSecret.TabIndex = 3;
-            this.txtSecret.Text = "NoI8A0JzydYUNQtVWyoMS8ma7qDywJ9ldG3/fYQT3Mk=";
             // 
             // btnGetAADUsers
             // 
